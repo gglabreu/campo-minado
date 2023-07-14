@@ -1,11 +1,3 @@
-1)
-nome: Campo minado
-descricao: Um projeto de campo minado onde vence quem achar mais bombas
-2)
-Orientações logo abaixo em "CAMPO MINADO REVERSO"
-3) 
-Integrantes: Guilherme Gonçalves Livio Abreu (216122634)
-
 CAMPO MINADO REVERSO:
 
 A intenção do jogo é achar todas as bombas e conseguir a maior pontuação que puder (a máxima é 220). Você começa com 100 pontos e são 6 bombas a serem encontradas nas 81 casas elencadas de 0 a 80.
